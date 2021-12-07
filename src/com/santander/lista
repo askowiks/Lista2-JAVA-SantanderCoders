@@ -1,0 +1,20 @@
+Lista de exercícios:
+
+ex1.
+Escreva um programa que recebe dois números inteiros e informa o resultado das operações
+soma, subtração, multiplicação e divisão. Considere sempre a ordem em que foram informados.
+
+ex2.
+Escreva um programa que informa a tabuada de um número informado (entre 1-10).
+
+ex3.
+Escreva um programa que converte temperaturas de Celsius para Farenheit.
+
+ex4.
+Escreva um programa que recebe a cotação do dólar do dia e, seguida recebe um valor em reais.
+A saída é a quantia em dólares. Use formatação de saída para exibir os valores de acordo com
+cada representação de moeda.
+
+ex5.
+Escreva um programa que realiza conversão de medidas de polegadas em centímetros.
+
